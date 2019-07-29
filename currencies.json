@@ -1,0 +1,9 @@
+{
+  "currency": [
+    {"code": "USD", "currency": "United States Dollar"},
+    {"code": "RUB", "currency": "Russian Ruble"},
+    {"code": "UAH", "currency": "Ukrainian Hryvnia"},
+    {"code": "TND", "currency": "Tunisian Dinar"}
+
+  ]
+}
